@@ -1,5 +1,5 @@
 #### scriptable.Fronius V1.02
-![seWidget](froni.jpeg)
+![seWidget](froni1.jpeg)
 
 # Fronius-Widget
 Widget für den Fronius-Wechselrichter
