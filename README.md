@@ -37,6 +37,7 @@ Die folgenden JSON-Daten der Batterie werden verarbeitet:
     "Data" :
         "Site" : {
             ...
+            "E_Day" : 6406.5001220703125,
             "E_Total" : 7604385.5,
             "E_Year" : 1342638.2000000002, 
             ...
