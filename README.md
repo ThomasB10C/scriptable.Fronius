@@ -21,7 +21,7 @@ Im Script (obere Zeile) ist für den Zugriif auf den Fronius-Wechselrichter der 
 
 - **APIurl:** - IP-Adresse des Fronius-Wechselrichters in der Form "xxx.xxx.xxx.xx"
 
-## API-Schnittstelle
+## API-Schnittstelle, API-Endpoint
 
 ````APIurl = "http://xxx.xxx.xxx.xx/solar_api/v1/GetPowerFlowRealtimeData.fcgi"````
 
