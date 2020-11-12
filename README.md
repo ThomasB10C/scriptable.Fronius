@@ -4,7 +4,7 @@
 # Fronius-Widget
 Widget für den Fronius-Wechselrichter
 
-Download: >>> [hier](SolarEdgeV1.0.js)
+Download: >>> [hier](FroniusV1.02.js)
 
 ## Kurzbeschreibung
 Das Widget für den SolarEdge-Wechselrichter liest ausgewählte Betriebsdaten über die API-Schnittstelle der Webseite für das Monitoring des Wechselrichters aus 
