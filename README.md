@@ -27,7 +27,7 @@ Im Script (obere Zeile) ist für den Zugriif auf den Fronius-Wechselrichter der 
 
 Die ausgelesenen Daten werden zur Anzeige gebracht, eine Speicherung der Daten durch das Widget, bspw. in einer Datenbank für die Visualisierung von Trends, erfolgt nicht.
 
-Die folgenden JSON-Daten werden verarbeitet:
+Die folgenden JSON-Daten der API werden verarbeitet:
 
 ##### JSON
 
