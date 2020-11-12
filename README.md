@@ -33,27 +33,24 @@ Die folgenden JSON-Daten der Batterie werden verarbeitet:
 
 ````
 {
-  "overview":{
-       "lastUpdateTime":"2013-10-01 02:37:47", 
-       "lifeTimeData": {
-            "energy":761985.75,
-            "revenue":946.13104 
-        },
-        "lastYearData":{ 
-            "energy":761985.8, 
-            "revenue":0.0
-        },
-        "lastMonthData":{
-            "energy":492736.7,
-            "revenue":0.0
-        },
-        "lastDayData":{
-            "energy":0.0,
-            "revenue":0.0 
-        },
-        "currentPower":{
-            "power":0.0
-        }
+"Body" : {
+    "Data" :
+        "Site" : {
+            ...
+            "E_Total" : 7604385.5,
+            "E_Year" : 1342638.2000000002, 
+            ...
+            ... 
+            "P_PV" : 941.60000000000002, 
+            ...
+         },
+         ...
+        "Head" : {
+            ...
+            }
+            "Timestamp" : "2019-06-12T15:31:07+02:00" }
+         }
+
 }
 ````
 ## Changelog
